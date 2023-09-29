@@ -1,0 +1,18 @@
+.cards{
+    font-size: 1.98rem;
+    background-color: white;
+    border-radius: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    width: 220px;
+    height: 210px;
+    box-shadow: 14px 10px 15px;
+}
+
+img{
+    width: 13rem;
+    height: 10rem;
+}
